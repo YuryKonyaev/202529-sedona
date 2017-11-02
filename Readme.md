@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Yury Konyaev](https://up.htmlacademy.ru/htmlcss/19/user/202529).
-* Наставник: `[Евгений Котов]https://up.htmlacademy.ru/htmlcss/19/user/25083`.
+* Наставник: [Евгений Котов](https://up.htmlacademy.ru/htmlcss/19/user/25083).
 
 ---
 
